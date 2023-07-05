@@ -1,6 +1,6 @@
 #include <iostream>
 #include <jni.h>
-#include "../include/App.h"
+#include "App.h"
 
 void say_hello()
 {

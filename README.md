@@ -5,7 +5,7 @@ A sample project for Java and C++.
 ## Getting Started
 
 - run `javac -h ./include/ ./src/App.java -d ./bin/` to generate Jni header.
-- run cmake.
+- run `cmake -S ./cpp/ -B ./build/`.
 - run Java program.
 
 ## Folder Structure
